@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Individuellt Projekt - Models", "Individuellt Projekt - Avancerad .NET - Lukas Rose SUT21\Individuellt Projekt - Models.csproj", "{9D558FCD-2161-4F84-81F7-383EE5D5B890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indivuduellt Projekt API", "Indivuduellt Projekt API\Indivuduellt Projekt API.csproj", "{C6711485-AF06-452B-A35A-E11B0107DABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D558FCD-2161-4F84-81F7-383EE5D5B890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D558FCD-2161-4F84-81F7-383EE5D5B890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D558FCD-2161-4F84-81F7-383EE5D5B890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D558FCD-2161-4F84-81F7-383EE5D5B890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6711485-AF06-452B-A35A-E11B0107DABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6711485-AF06-452B-A35A-E11B0107DABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6711485-AF06-452B-A35A-E11B0107DABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6711485-AF06-452B-A35A-E11B0107DABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6877185-622C-418A-ADB3-191576FF3592}
+	EndGlobalSection
+EndGlobal
